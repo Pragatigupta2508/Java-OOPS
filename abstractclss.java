@@ -1,3 +1,4 @@
+
 public class abstractclss {
     public static void main(String[] args) {
         vehicle v1 = new Car();
