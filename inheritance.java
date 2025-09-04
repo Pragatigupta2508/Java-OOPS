@@ -1,5 +1,3 @@
-
-// Single inheritance
 class parent {
 	String hairtype="Curly";
 	String eyecolor="Blue";
