@@ -10,7 +10,7 @@ public class customexception {
         if (age < 18) {
             throw new InvalidAgeException("Age " + age + " is not valid for voting!");
         } else {
-            System.out.println("Age " + age + " is valid. You can vote ✅");
+            System.out.println("Age " + age + " is valid. You can vote ");
         }
     }
 
